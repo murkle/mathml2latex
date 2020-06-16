@@ -2,7 +2,7 @@
 const path = require('path');
 
 module.exports = {
-  mode: 'production',
+//  mode: 'production',
   entry: {
     browser: './src/index-browser.js',
     server: './src/index-server.js'
